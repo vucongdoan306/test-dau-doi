@@ -1,0 +1,13 @@
+.second {
+    color: blue;
+}
+
+#first{
+    color: red;
+}
+:root{
+    --textcolor: violet;
+}
+ol li{
+    color: var(--textcolor);
+}
